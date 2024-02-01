@@ -1,2 +1,2 @@
-# React Starter Boilerplate
+# https://sametfurkankopar.netlify.app/
 
